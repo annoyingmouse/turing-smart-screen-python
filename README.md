@@ -110,6 +110,7 @@ If you don't want to use your screen for system monitoring, you can just use thi
 
 This project will act as an abstraction library to handle specific protocols and capabilities of each supported smart screen models in a transparent way for the user.
 Check `simple-program.py` as an example.
+For an example that drives the screen from a live web page instead of Python-generated content, see [`LCD_CLOCK.md`](LCD_CLOCK.md) (rev. A only).
 
 ### [> Control the display from your code](https://github.com/mathoudebine/turing-smart-screen-python/wiki/Control-screen-from-your-own-code)
 
